@@ -313,7 +313,7 @@ const PUBLISHED_DATA = {
       "kitchenTagsEn": "Cooktop,Oven,Refrigerator,Dishwasher,Coffee maker,Microwave",
       "bathroomTagsIt": "Doccia,Asciugamani,Phon,Prodotti igiene",
       "bathroomTagsEn": "Shower,Towels,Hairdryer, Hygiene products",
-      "wifiPass": "",
+      "wifiPass": "_AESGCM_aQVlLT4yFGIU+qQdYtaeGbeNsIlJrSCGbieFlgoJ+F80xkozg7E=",
       "houseRules": [
         {
           "icon": "🔇",
@@ -487,8 +487,8 @@ const PUBLISHED_DATA = {
         "airportMaps": "https://maps.app.goo.gl/ryLrzD8CMPjSXJhw7?g_st=ic",
         "stationEnabled": true,
         "stationIcon": "🚉",
-        "stationIt": "**Opzione 1: Taxi (più comoda, diretta)**\nI taxi ufficiali bianchi sono disponibili fuori dalla stazione Termini. Il costo per la nostra zona è intorno ai 25-35€.\n\n**Opzione 2: autobus**  \nDa Termini, prendete la l’autobus n. 90 per 14 fermate fino a Vimercati/Ateneo Salesiano. \n\n**Opzione 3: Treno regionale FL1/FL3 + bus/a piedi**  \nPrendete il treno FL1 o FL3 da Termini a Nuovo Salario. Dalla stazione Nuovo Salario, 10 minuti a piedi oppure bus 69 o 349.",
-        "stationEn": "**Option 1: Taxi (most convenient, direct)**\nOfficial white taxis are available outside Termini station. The cost for our area is around 25-35€.\n\n**Option 2: bus**  \nFrom Termini, take the bus n. 90 for 14 stops to Suvereto/Calcinaia. \n\n**Option 3: Regional train FL1/FL3 + bus/walk**  \nTake the FL1 or FL3 train from Termini to New Salary. From Nuovo Salario station, a 10-minute walk or bus 69 or 349.",
+        "stationIt": "**Opzione 1: Taxi (più comoda, diretta)**\nI taxi ufficiali bianchi sono disponibili fuori dalla stazione Termini. Il costo per la nostra zona è intorno ai 25-35€.\n\n**Opzione 2: Autobus**  \n\nDa Termini, prendete la l’autobus n. 90 per 14 fermate fino a Vimercati/Ateneo Salesiano.\n\n**Opzione 3: Treno regionale FL1/FL3 + bus/a piedi**  \nPrendete il treno FL1 o FL3 da Termini a Nuovo Salario. Dalla stazione Nuovo Salario, 10 minuti a piedi oppure bus 69 o 349.",
+        "stationEn": "**Option 1: Taxi (most convenient, direct)**\nOfficial white taxis are available outside Termini station. The cost for our area is around 25-35€.\n\n**Option 2: Bus**  \nFrom Termini, take the bus n. 90 for 14 stops to Suvereto/Calcinaia.\n\n**Option 3: Regional train FL1/FL3 + bus/walk**  \nTake the FL1 or FL3 train from Termini to New Salary. From Nuovo Salario station, a 10-minute walk or bus 69 or 349.",
         "stationMaps": "https://maps.app.goo.gl/YNQo7Vnp4HCVqFEB8?g_st=ic",
         "metroEnabled": false,
         "metroIcon": "🚇",
